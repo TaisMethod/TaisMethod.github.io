@@ -1,0 +1,16 @@
+title: TaisMethod
+author:
+  name: 
+  
+description: > # this means to ignore newlines until "show_excerpts:"
+
+show_excerpts: false
+
+showRSS: false
+
+header_pages:
+  
+theme: minima
+
+minima:
+  skin: github-dark
