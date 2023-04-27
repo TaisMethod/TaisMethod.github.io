@@ -11,7 +11,7 @@ katex: true
 
 Blog homepage
 
-\`(-1)^x=\cos(\pi x)+i\sin(\pi x)\`
+$(-1)^x=\cos(\pi x)+i\sin(\pi x)$
 
 
 $$
