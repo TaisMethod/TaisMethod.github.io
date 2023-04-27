@@ -15,9 +15,8 @@ Blog homepage
 
 
 \\\`
-f(x)=\int_{-\infty}^{\infty} F(s) \cdot (-1)^{2s} ds
-\\\`
-
-\\\`
-F(s)=\int_{-\infty}^{\infty} f(t) / (-1)^{2s} dt
+\begin{aligned}
+f(x)&=\int_{-\infty}^{\infty} F(s) \times (-1)^{2s} ds \\
+F(s)&=\int_{-\infty}^{\infty} f(t) \div   (-1)^{2s} dt
+\end{aligned}
 \\\`
